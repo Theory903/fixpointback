@@ -9,7 +9,7 @@ const financialRoutes = require("./routes/financial");
 const appointmentRoutes = require("./routes/appointments");
 
 const app = express();
-const PORT = 5001;
+const PORT = 3000;
 
 // Middleware
 app.use(cors());
