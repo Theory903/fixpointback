@@ -1,0 +1,14 @@
+id,customerName,date,time,service,status
+1,Amit Sharma,2024-11-01,10:00 AM,Oil Change,Scheduled
+2,Neha Verma,2024-11-02,11:30 AM,Tire Replacement,Completed
+3,Rahul Singh,2024-11-03,02:00 PM,Engine Repair,Scheduled
+4,Priya Gupta,2024-11-04,03:00 PM,Battery Replacement,Scheduled
+5,Rohit Jain,2024-11-05,01:00 PM,Brake Check,Completed
+6,Sonia Mehta,2024-11-06,09:30 AM,Wheel Alignment,Cancelled
+7,Manish Agarwal,2024-11-07,12:00 PM,Oil Change,Completed
+8,Anjali Kapoor,2024-11-08,04:30 PM,Tire Replacement,Scheduled
+9,Karan Malhotra,2024-11-09,11:00 AM,Car Wash,Completed
+10,Deepak Chauhan,2024-11-10,01:30 PM,AC Repair,Scheduled11,luv,2024-11-21,00:11,battery,Scheduled
+11,Luv,2024-11-21,00:11,car,Scheduled
+12,abhishek,2024-11-12,00:11,Battery,Scheduled
+13,Abhishek,2024-11-25,00:11,CAR,Scheduled

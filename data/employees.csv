@@ -1,0 +1,11 @@
+id,name,role,attendance,performance,tags,status
+1,Rajesh Sharma,Technician,85%,Good,"Reliable, Team Player",Active
+2,Neha Gupta,Manager,95%,Outstanding,"Punctual, Efficient",Active
+3,Amit Kumar,Supervisor,78%,Average,"Reliable, Punctual",Inactive
+4,Sunita Singh,Technician,90%,Good,"Efficient, Team Player",Active
+5,Vivek Mehta,Manager,92%,Outstanding,"Leader, Motivated",Active
+6,Pooja Verma,Technician,88%,Good,"Punctual, Focused",Inactive
+7,Anil Yadav,Supervisor,80%,Average,"Reliable, Organized",Active
+8,Kavita Das,Technician,75%,Average,"Punctual, Detail-Oriented",Inactive
+9,Sandeep Patil,Manager,97%,Outstanding,"Leader, Visionary",Active
+10,Rashmi Roy,Supervisor,85%,Good,"Organized, Efficient",Active

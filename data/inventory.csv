@@ -1,0 +1,11 @@
+id,itemName,stock,predictedDemand,restockDate,aiInsights
+1,Engine Oil,120,150,2024-11-25,"High demand due to winter."
+2,Brake Pads,40,80,2024-11-30,"Stock levels critical."
+3,Tyres,60,100,2024-11-27,"Demand stable."
+4,Battery,25,70,2024-11-28,"Expected rise in demand."
+5,Clutch Plates,50,90,2024-11-30,"Stock optimal."
+6,Air Filters,70,110,2024-11-25,"Seasonal increase expected."
+7,Engine Coolant,30,60,2024-11-27,"Demand steady."
+8,Spark Plugs,45,75,2024-11-29,"Stock needs review."
+9,Headlights,35,80,2024-11-26,"Stock nearing critical level."
+10,Wiper Blades,90,120,2024-11-25,"Stock levels sufficient."

@@ -1,0 +1,11 @@
+id,customerName,service,assignedMechanic,status,cost
+1,Arjun Reddy,Oil Change,Rajesh Sharma,Completed,₹1500
+2,Priya Kapoor,Brake Repair,Neha Gupta,In Progress,₹2500
+3,Vikram Chauhan,Engine Overhaul,Amit Kumar,Pending,₹12000
+4,Anjali Jain,Tire Replacement,Sunita Singh,Completed,₹8000
+5,Ravi Malhotra,Battery Replacement,Vivek Mehta,Pending,₹4500
+6,Nisha Aggarwal,Clutch Repair,Pooja Verma,Completed,₹9000
+7,Karan Sethi,Air Filter Change,Anil Yadav,In Progress,₹1200
+8,Meera Nair,Engine Tuning,Kavita Das,Pending,₹4000
+9,Harsh Trivedi,Headlight Replacement,Sandeep Patil,Completed,₹3000
+10,Sneha Choudhary,Wiper Blade Installation,Rashmi Roy,Completed,₹1000
